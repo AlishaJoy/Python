@@ -1,7 +1,7 @@
 #  learn python basics
 
 **module 1**
-##Basics
+## Basics
 - Variable datatypes
 - Typeconversion
 - User input 
