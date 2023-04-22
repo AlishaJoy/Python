@@ -1,3 +1,10 @@
 #  learn python basics
 
-strings variables 
+**module 1**
+##Basics
+- Variable datatypes
+- Typeconversion
+- User input 
+- Prebuild functions
+
+
