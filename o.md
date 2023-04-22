@@ -6,8 +6,9 @@
 - User input 
 - Prebuild functions
 
-* Basic print statements *
-'''py
+*Basic print statements*
+
+```py
 a = 'Learn Python Basics'
 b = " welcome to the class"
 c = a + ',' + b
@@ -22,5 +23,4 @@ print(b.find('o')) #finds the position
 print(a.replace('Python','Python language'))
 print(c)
 print(d)
-'''
-
+```
