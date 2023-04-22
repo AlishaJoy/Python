@@ -2,14 +2,14 @@
 
 ### Module 1 : Basics
 - Variable datatypes
-- Typeconversion
+- Typeconversion 
 - User input 
 - Prebuild functions
 
 *Basic print statements*
 
 ```py
-`print('hello all')`
+`` print('hello all') ``
 ```
 ```py
 a = 'Learn Python Basics'
