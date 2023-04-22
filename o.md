@@ -9,8 +9,9 @@
 *Basic print statements*
 
 ```py
-print('hello all')
-
+`print('hello all')`
+```
+```py
 a = 'Learn Python Basics'
 b = " welcome to the class"
 c = a + ',' + b
