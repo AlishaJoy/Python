@@ -1,29 +1,29 @@
-#  Learn Python
+#   Python
 
-### Module 1 : Basics
+### Module 1 : BASICS
+- Basic print statements
 - Variable datatypes
 - Typeconversion 
 - User input 
 - Prebuild functions
 
-*Basic print statements*
+
 
 
 `` print('hello all') ``
 
-```py
 # Define two string variables
-a = 'Learn Python Basics'
-b = " welcome to the class"
+``a = 'Learn Python Basics``
+``b = " welcome to the class"``
 
 # Concatenate the two strings and assign the result to a new variable
-c = a + ',' + b
+``c = a + ',' + b``
 
 # Concatenate the new variable with additional strings and spaces, and assign the result back to itself
-c = ' ' + c + ' are you excited!'
+``c = ' ' + c + ' are you excited!' ``
 
 # Create a new string using string formatting and assign it to a new variable
-d = '{} by step by step processs'.format(a)
+``d = '{} by step by step processs'.format(a) ``
 
 # Print various properties of the string variables
 print(a)                          # Learn Python Basics
@@ -40,4 +40,3 @@ print(c)                          #  Learn Python Basics, welcome to the class a
 print(d)                          # Learn Python Basics by step by step processs
 
 
-```
