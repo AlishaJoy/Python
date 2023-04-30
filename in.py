@@ -22,5 +22,19 @@ print(round(55.88))
 print(round(99.333,2))
 
 #comparisons
+a = 20
+b = 60
 
+print(a == b) 
+print(a != b)
+print(a > b)
+print(a < b)
+print(a >= b)
+print(a <= b)
+
+# string 
+a = '292'
+b  = '44'
+
+print(a + b)
 
