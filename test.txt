@@ -1,5 +1,5 @@
 1)learn python 
-2)learn OOP in python
-3)learn numpy 
-4)learn matplotlib
+2)learn numpy
+3)learn matplotlib
+4)learn git 
 5)learn pandas
